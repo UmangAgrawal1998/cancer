@@ -1,0 +1,91 @@
+.hero_image{
+	background-image: url(image.jpg);
+	background-size:cover;
+
+	height: 95vh;
+	position: relative;
+}
+
+.heroimage2{
+	background-image: url(image2.jpg);
+	background-size: cover;
+	height: 95vh;
+
+}
+
+
+
+
+
+.hero_text{
+	color: white;
+	position: absolute;
+	top: 38%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+.hero_text h1{
+	text-align: center;
+}
+
+.form_code .input_code{
+	display: block;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 2rem;
+	padding: .6rem;
+	border: none;
+	outline: none;
+
+}
+
+.form_code button{
+	display: block;
+	width: 100%;
+	margin-left: auto;
+	font-size: 30px;
+	margin-right: auto;
+	margin-top: 1rem;
+	text-align: center;
+	background-color: #337FFF;
+	color: white;
+	border: none;
+	border-radius: .8rem;
+	padding: .3rem;
+}
+
+.wow
+{
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	font-size: 30px;
+	margin-right: auto;
+	margin-top: 1rem;
+	text-align: center;
+	background-color: #337FFF;
+	color: white;
+	border: none;
+	border-radius: .8rem;
+	padding: .3rem;
+}
+
+.da
+{
+	width: 500px;
+	height: 300px;
+}
+.ww
+{
+	vertical-align: center;
+	font-size: 30px;
+    
+}
+.ba
+{
+	width: 500px;
+	height: 300px;
+}
